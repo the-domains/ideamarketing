@@ -1,0 +1,23 @@
+name: IdeaMarketing
+favicon: null
+layout_spectrum: 0.380673049017787
+typography_spectrum: 0.6133242100477219
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.09447578666731715
+  lightness: 0.32393700000829995
+  saturation: 0.021739528514444828
+  rhythmicContrast: 0.7869793048594147
+purpose: []
